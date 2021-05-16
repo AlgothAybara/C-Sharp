@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObjectLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ObjectLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObjectLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ObjectLibrary/ObjectLibrary.csproj",
+      "msbuildProject": "../ObjectLibrary/ObjectLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ObjectLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aaron Young\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\AaronYoung_SkillsUSA_3\\UserInterface\\UserInterface.csproj",
+      "projectName": "UserInterface",
+      "projectPath": "D:\\AaronYoung_SkillsUSA_3\\UserInterface\\UserInterface.csproj",
+      "packagesPath": "C:\\Users\\Aaron Young\\.nuget\\packages\\",
+      "outputPath": "D:\\AaronYoung_SkillsUSA_3\\UserInterface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aaron Young\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\AaronYoung_SkillsUSA_3\\ObjectLibrary\\ObjectLibrary.csproj": {
+              "projectPath": "D:\\AaronYoung_SkillsUSA_3\\ObjectLibrary\\ObjectLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

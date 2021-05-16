@@ -1,0 +1,13 @@
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.csprojAssemblyReference.cache
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.AssemblyInfoInputs.cache
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.AssemblyInfo.cs
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.exe
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.deps.json
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.runtimeconfig.json
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.runtimeconfig.dev.json
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.dll
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\bin\Debug\netcoreapp3.1\UserInterface.pdb
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.dll
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.pdb
+C:\Users\ay0900356\OneDrive - Ozarks Technical Community College\Desktop\SkillsUSACompetition2\AaronYoung_SkillsUSA_1\UserInterface\obj\Debug\netcoreapp3.1\UserInterface.genruntimeconfig.cache
