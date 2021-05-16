@@ -1,0 +1,30 @@
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.exe.config
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\RoseClassLibrary.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\RoseClassLibrary.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.Petals_Form.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.Properties.Resources.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\UX Design.csproj.GenerateResource.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\UX Design.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\UX Design.csproj.CopyComplete
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\UX Design.csprojAssemblyReference.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\Logic.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\Logic.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\ay0900356_PictureBox_Dice.exe.config
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\ay0900356_PictureBox_Dice.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\Logic.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\RoseClassLibrary.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\Logic.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\bin\Debug\RoseClassLibrary.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\UX Design.csprojAssemblyReference.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\ay0900356_PictureBox_Dice.Petals_Form.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\ay0900356_PictureBox_Dice.Properties.Resources.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\UX Design.csproj.GenerateResource.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\UX Design.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\UX Design.csproj.CopyComplete
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\UX Design\obj\Debug\ay0900356_PictureBox_Dice.pdb

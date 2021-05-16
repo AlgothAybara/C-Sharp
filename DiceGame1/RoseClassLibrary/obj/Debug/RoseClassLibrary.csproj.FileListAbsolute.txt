@@ -1,0 +1,6 @@
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\bin\Debug\RoseClassLibrary.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\bin\Debug\RoseClassLibrary.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\obj\Debug\RoseClassLibrary.csprojAssemblyReference.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\obj\Debug\RoseClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\obj\Debug\RoseClassLibrary.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\RoseClassLibrary\obj\Debug\RoseClassLibrary.pdb

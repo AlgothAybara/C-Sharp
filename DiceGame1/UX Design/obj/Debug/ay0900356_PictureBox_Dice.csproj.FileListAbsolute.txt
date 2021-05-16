@@ -1,0 +1,13 @@
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.exe.config
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\ay0900356_PictureBox_Dice.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.csprojAssemblyReference.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.Petals_Form.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.Properties.Resources.resources
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.csproj.GenerateResource.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.exe
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\RoseClassLibrary.dll
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\bin\Debug\RoseClassLibrary.pdb
+C:\Users\Aaron Young\OneDrive - Ozarks Technical Community College\Documents\C#\CIS151Project\ay0900356_PictureBox_Dice\obj\Debug\ay0900356_PictureBox_Dice.csproj.CopyComplete

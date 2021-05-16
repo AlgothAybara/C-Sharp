@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ay0900356_PictureBox_Dice", "ay0900356_PictureBox_Dice.csproj", "{C2CCEF25-E11A-44B2-9084-8D2A1182E4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CCEF25-E11A-44B2-9084-8D2A1182E4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CCEF25-E11A-44B2-9084-8D2A1182E4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CCEF25-E11A-44B2-9084-8D2A1182E4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CCEF25-E11A-44B2-9084-8D2A1182E4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ACAE008-356C-4302-808A-C7FFC0AF636C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/ay0900356
+		SccProjectUniqueName0 = ay0900356_PictureBox_Dice.csproj
+		SccProjectName0 = .
+		SccAuxPath0 = https://cisteam.otc.edu/tfs/ay0900356
+		SccLocalPath0 = .
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal
